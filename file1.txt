@@ -1,2 +1,3 @@
 hello
 mkd
+restore check
